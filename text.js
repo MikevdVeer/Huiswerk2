@@ -119,8 +119,23 @@ console.log(3%2)
 console.log(4%2)
 console.log(5%2)
 //opdracht 12
-
-
+let uur24 = 17  
+let uur12 = uur24 % 12
+console.log(uur12)
+//opdracht 13
+ uur24 = 19
+ uur12 = uur24 % 12
+console.log(uur24 % 12)
+//opdracht 14
+ uur12 = 3
+ uur24 = 12 + uur12
+console.log(12 + uur12)
+//opdracht 15
+result = 3
+console.log(result)
+//opdracht 16
+result = 2
+console.log(result)
 
 
 
